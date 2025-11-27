@@ -7,6 +7,8 @@ public class Ejercicio1 {
 
         System.out.println("Adios");
 
+        System.out.println("Buenos Dias");
+
 
     }
 }
